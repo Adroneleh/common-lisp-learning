@@ -24,7 +24,11 @@ Feel free to contribute your suggestions and improvements. I welcome feedback an
 
 This repository is distributed under the MIT License. You are free to use the code and materials in your own projects.
 
-## How to Install a Common Lisp Interpreter on Linux:
+## Link to Task Board
+
+You can track the project's progress and view current tasks on the [Task Board](https://github.com/users/Adroneleh/projects/1).
+
+## How to Install a Common Lisp Interpreter on Linux(Ubuntu):
 
 If you're using Linux and want to start learning Common Lisp, you can install a Common Lisp interpreter such as SBCL (Steel Bank Common Lisp) by following these steps:
 
