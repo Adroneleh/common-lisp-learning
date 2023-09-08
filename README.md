@@ -52,3 +52,8 @@ sudo apt install sbcl
 sbcl
 ```
 
+## How to run the program
+
+```shell
+sbcl --script /path/to/your/directory
+```
