@@ -1,4 +1,4 @@
-# Comon Lisp Learning Project
+# Common Lisp Learning Project
 
 This repository serves as a place where I store my educational materials, experiments, and project templates related to Common Lisp. Here you will find code examples, educational assignments, and project skeletons to help me learn and delve deeper into the world of Common Lisp.
 
